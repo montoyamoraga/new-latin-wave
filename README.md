@@ -19,11 +19,14 @@ Curation of new media arts exhibit for the 2017 version of the [New Latin Wave] 
 
 The projects featured include:
 
-* Computer vision
-* Face tracking
-* Machine learning
-* Video mapping
-
+* [Computer vision](https://en.wikipedia.org/wiki/Computer_vision)
+* [Data visualization](https://en.wikipedia.org/wiki/Data_visualization)
+* [Generative text](https://en.wikipedia.org/wiki/Generative_art)
+* [Interactive installations](https://en.wikipedia.org/wiki/Installation_art)
+* [Facial motion capture](https://en.wikipedia.org/wiki/Facial_motion_capture)
+* [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
+* [Photogrammetry](https://en.wikipedia.org/wiki/Photogrammetry)
+* [Projection mapping](https://en.wikipedia.org/wiki/Projection_mapping)
 
 ## Documentation
 
