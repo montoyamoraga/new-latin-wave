@@ -2,7 +2,7 @@
 
 ## About
 
-Curation of new media arts exhibit for the 2017 version of the [New Latin Wave] festival. All of the projects featured were created by Latin American artists based in New York City and part of the community of the [Interactive Telecommunications Program](https://tisch.nyu.edu/itp), [Tisch School of the Arts](https://tisch.nyu.edu/), [New York University](http://www.nyu.edu/).
+Curation of new media arts exhibit for the 2017 version of the [New Latin Wave](http://newlatinwave.com/) festival. All of the projects featured were created by Latin American artists based in New York City and part of the community of the [Interactive Telecommunications Program](https://tisch.nyu.edu/itp), [Tisch School of the Arts](https://tisch.nyu.edu/), [New York University](http://www.nyu.edu/).
 
 ## Featured artists
 
