@@ -2,9 +2,9 @@
 
 ## About
 
-Curation of new media arts exhibit for the 2017 version of the [New Latin Wave] festival.
+Curation of new media arts exhibit for the 2017 version of the [New Latin Wave] festival. All of the projects featured were created by Latin American artists based in New York City and part of the community of the [Interactive Telecommunications Program](https://tisch.nyu.edu/itp), [Tisch School of the Arts](https://tisch.nyu.edu/), [New York University](http://www.nyu.edu/).
 
-## Artists
+## Featured artists
 
 * [Cristóbal Valenzuela](http://cvalenzuelab.com/)
 * [Francesca Rodríguez-Sawaya](http://www.franrodriguezsawaya.com/)
@@ -16,6 +16,16 @@ Curation of new media arts exhibit for the 2017 version of the [New Latin Wave] 
 * [Sejo Vega-Cebrián](https://escenaconsejo.org/en/)
 
 ## Technology
+
+The projects featured include:
+
+* Computer vision
+* Face tracking
+* Machine learning
+* Video mapping
+
+
+## Documentation
 
 ## Thanks
 
