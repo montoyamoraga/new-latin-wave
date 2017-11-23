@@ -45,4 +45,4 @@ The projects featured include:
 ## Thanks
 
 * Amanda Riesman and Sokio for organizing the festival and the invitation.
-* To [Guillermo Montecinos](), for production and technical and organizational assistance.
+* To [Guillermo Montecinos](http://guillemontecinos.cl), for production and technical and organizational assistance.
