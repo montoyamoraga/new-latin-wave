@@ -29,6 +29,18 @@ The projects featured include:
 * [Projection mapping](https://en.wikipedia.org/wiki/Projection_mapping)
 
 ## Documentation
+![](https://github.com/montoyamoraga/new-latin-wave/blob/master/documentation/new-latin-wave-0.jpg)
+![](https://github.com/montoyamoraga/new-latin-wave/blob/master/documentation/new-latin-wave-1.jpg)
+![](https://github.com/montoyamoraga/new-latin-wave/blob/master/documentation/new-latin-wave-2.jpg)
+![](https://github.com/montoyamoraga/new-latin-wave/blob/master/documentation/new-latin-wave-3.jpg)
+![](https://github.com/montoyamoraga/new-latin-wave/blob/master/documentation/new-latin-wave-4.jpg)
+![](https://github.com/montoyamoraga/new-latin-wave/blob/master/documentation/new-latin-wave-5.jpg)
+![](https://github.com/montoyamoraga/new-latin-wave/blob/master/documentation/new-latin-wave-6.jpg)
+![](https://github.com/montoyamoraga/new-latin-wave/blob/master/documentation/new-latin-wave-7.jpg)
+![](https://github.com/montoyamoraga/new-latin-wave/blob/master/documentation/new-latin-wave-8.jpg)
+![](https://github.com/montoyamoraga/new-latin-wave/blob/master/documentation/new-latin-wave-9.jpg)
+[*Pictures by Sejo Vega-Cebrián*](https://escenaconsejo.org/en/)
+
 
 ## Thanks
 
